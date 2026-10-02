@@ -92,3 +92,7 @@ Python (GeoPandas, rasterio, pyproj, h3, NetworkX, Pillow, matplotlib) · Node.j
 ## Map and data disclosure
 
 Some national maps include the nine-dash line as display geometry only; it contributes no area, particles or statistics, and is not a publication-cleared official map asset. Third-party data, map layers, fonts and imagery remain under their original licenses and attribution requirements.
+
+## License
+
+The images in `public-works/` and the text of this repository are © Felix Liu (@一尺之棰 / Zeno.yczc), licensed [CC BY-NC 4.0](LICENSE). Third-party data and map layers keep their original licenses, as noted above.
