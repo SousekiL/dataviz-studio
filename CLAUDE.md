@@ -7,7 +7,7 @@ Guidance for Claude Code in this workspace. The full local agent rules live in `
 ## Two layers: local workspace vs. public repository
 
 - The local folder is a working studio of ~30 data-visualization projects (code, contracts, raw data, Blender scenes, frames, videos).
-- The GitHub repository is a **portfolio only**. `.gitignore` is an allow-list: `/*` is ignored and only `.gitignore`, `README.md`, `README.zh-CN.md`, `CLAUDE.md`, `PUBLIC_WORKS_MANIFEST.md` and `public-works/**` are tracked.
+- The GitHub repository is a **portfolio only**. `.gitignore` is an allow-list: `/*` is ignored and only `.gitignore`, `README.md`, `README.zh-CN.md`, `CLAUDE.md`, `PUBLIC_WORKS_MANIFEST.md`, `LICENSE` and `public-works/**` are tracked.
 - Never un-ignore or force-add project folders, raw third-party data, scenes, frames or videos unless the user explicitly asks and the licenses permit redistribution.
 
 ## Adding a work to the public portfolio

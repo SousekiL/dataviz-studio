@@ -92,3 +92,7 @@ Python（GeoPandas、rasterio、pyproj、h3、NetworkX、Pillow、matplotlib）�
 ## 地图与数据声明
 
 部分全国地图中的九段线仅作显示几何，不参与面积、粒子或统计计算，且不是经出版审核的官方地图素材。第三方数据、地图图层、字体与影像仍受其原始许可与署名要求约束。
+
+## 授权
+
+`public-works/` 中的图片与本仓库文字 © Felix Liu（@一尺之棰 / Zeno.yczc），以 [CC BY-NC 4.0](LICENSE) 授权：可非商业转载和改编，须注明出处。第三方数据与地图图层仍按上文所述的原始许可执行。
